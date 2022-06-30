@@ -1,4 +1,4 @@
-1. Abd  device:查看电脑链接的设备信息
+1. adb  devices:查看电脑链接的设备信息
     出现问题：List of devices attached
 356790d7	no permission
 访问网站：
